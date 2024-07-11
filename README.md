@@ -1,7 +1,7 @@
-Beehive Bioacoustics Noise Reduction using Liquid Neural Networks
+<h2>Beehive Bioacoustics Noise Reduction using Liquid Neural Networks</h2>
 
 <h1>By: Raveesh Malhotra(Student Id:1572223)</h1>
-Supervisor: Dr. Iman Adrekani
+<h1>Supervisor: Dr. Iman Adrekani</h1>
 
 
 Monitoring the health and activity of bee colonies has become increasingly crucial in recent years, owing to bees' critical role in pollination and their worrisome drop in population. Beehive sound analysis is a promising tool for non-invasively measuring beehive health. However, these auditory waves are noisy, making precise assessment difficult. This thesis investigates the application of advanced artificial neural network architectures for denoising beehive sounds, with a focus on the comparative performance of CNNs, LSTM networks and LTC, with a particular emphasis on  LTC Networks which has been recently proposed by researchers. LNNs, exemplified by LTC neural networks are inspired by the brain's continuous-time processing, have demonstrated significant adaptability and robustness.
