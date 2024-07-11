@@ -1,6 +1,6 @@
 Beehive Bioacoustics Noise Reduction using Liquid Neural Networks
 
-By: Raveesh Malhotra(Student Id:1572223)
+<h1>By: Raveesh Malhotra(Student Id:1572223)</h1>
 Supervisor: Dr. Iman Adrekani
 
 
